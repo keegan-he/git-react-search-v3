@@ -1,6 +1,8 @@
 # React Github Search v3
-## type in username and view projects on github
+## type in github username and view user repos
 
-In the project directory, you can run:
+Screenshot
 
-### `npm start`
+![Github searchysearch](/images/logo.png)
+
+### `¯\_(ツ)_/¯`
