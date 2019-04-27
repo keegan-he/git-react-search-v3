@@ -3,6 +3,6 @@
 
 Screenshot
 
-![Github searchysearch](/images/logo.png)
+![Github searchysearch](ghsearch.png)
 
 ### `¯\_(ツ)_/¯`
